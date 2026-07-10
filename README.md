@@ -189,7 +189,7 @@ Completed exercises and problem sets involving:
 
 - Arduino Programming Fundamentals and Practical Projects — Edraak
 - One Million Prompters — Dubai
-- AI Fundamentals — IBM SkillsBuild
+- Artificial Intelligence Fundamentals (Earn a credential!)
 - Additional certifications and technical training in progress
 
 ---
