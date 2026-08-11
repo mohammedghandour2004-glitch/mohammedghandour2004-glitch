@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mohammed Ghandour 👋</h1>
 
 <h3 align="center">
-Automotive Diagnostics & Embedded Electronics | Arduino | C/C++ | Embedded Systems
+Embedded Systems | C/C++ | Automotive Electronics
 </h3>
 
 <p align="center">
@@ -17,17 +17,19 @@ Automotive Diagnostics & Embedded Electronics | Arduino | C/C++ | Embedded Syste
 
 ## About Me
 
-I am an aspiring Embedded Systems and Automotive Electronics professional based in Rabat-Salé, Morocco.
+I am a Moroccan student focused on **Embedded Systems, C/C++ programming, and Automotive Electronics**.
 
-I completed my academic training toward a Specialized Technician Diploma in Automotive Diagnostics and Embedded Electronics at OFPPT and am currently awaiting my final diploma and results.
+I was declared **Admis** in the **Technicien Spécialisé en Diagnostic et Electronique Embarquée** program at OFPPT. I am currently waiting for the official diploma.
 
-I am passionate about combining automotive technology, electronics, programming, and embedded systems to build practical technical solutions.
+My main goal is to build a strong foundation in embedded software and automotive technologies through continuous learning and practical projects.
 
-- 🎓 Specialized Technician Diploma candidate in Automotive Diagnostics and Embedded Electronics
-- 🚗 Hands-on experience in automotive maintenance, diagnostics, electronics, and OBD systems
-- 🔧 Interested in Embedded Systems, Automotive Electronics, IoT, and Artificial Intelligence
-- 💻 Currently strengthening my knowledge of C, C++, algorithms, data structures, and problem-solving
-- 🌍 Open to internships, entry-level roles, technical opportunities, and relocation
+- 🎓 Technicien Spécialisé en Diagnostic et Electronique Embarquée — OFPPT
+- 💻 Focused on C, Embedded C, and C++
+- 🔌 Learning Microcontrollers and Embedded Systems
+- 🚗 Interested in Automotive Electronics and Automotive Embedded Systems
+- 🧰 Building practical Arduino and embedded projects
+- 📚 CS50x — Introduction to Computer Science
+- 🌱 Currently studying Embedded Systems and microcontrollers
 - 📍 Rabat-Salé, Morocco
 
 ---
@@ -38,220 +40,172 @@ I am passionate about combining automotive technology, electronics, programming,
 
 <p>
   <img src="https://img.shields.io/badge/C-Programming-blue?style=flat-square&logo=c" alt="C">
-  <img src="https://img.shields.io/badge/C++-Programming-blue?style=flat-square&logo=cplusplus" alt="C++">
+  <img src="https://img.shields.io/badge/C++-Basics-blue?style=flat-square&logo=cplusplus" alt="C++">
   <img src="https://img.shields.io/badge/Python-Basics-yellow?style=flat-square&logo=python" alt="Python">
 </p>
 
 ### Embedded Systems & Electronics
 
 <p>
+  <img src="https://img.shields.io/badge/Embedded%20C-Learning-orange?style=flat-square" alt="Embedded C">
   <img src="https://img.shields.io/badge/Arduino-Projects-00979D?style=flat-square&logo=arduino" alt="Arduino">
+  <img src="https://img.shields.io/badge/ATmega32-Learning-green?style=flat-square" alt="ATmega32">
+  <img src="https://img.shields.io/badge/STM32-Learning-blue?style=flat-square&logo=stmicroelectronics" alt="STM32">
   <img src="https://img.shields.io/badge/Wokwi-Simulation-purple?style=flat-square" alt="Wokwi">
-  <img src="https://img.shields.io/badge/Embedded%20Systems-Learning-orange?style=flat-square" alt="Embedded Systems">
-  <img src="https://img.shields.io/badge/Sensors%20%26%20Actuators-Practical-green?style=flat-square" alt="Sensors">
 </p>
 
 ### Automotive
 
 - Automotive diagnostics
-- OBD diagnostics
 - Automotive electronics
 - Vehicle electrical systems
-- Engine management systems
+- OBD diagnostics
 - Sensors and actuators
-- Preventive maintenance
-- Mechanical troubleshooting
+- Automotive embedded systems — learning focus
 
-### Tools
+### Development Tools
 
 <p>
   <img src="https://img.shields.io/badge/Git-GitHub-orange?style=flat-square&logo=git" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?style=flat-square&logo=github" alt="GitHub">
-  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=flat-square&logo=visualstudiocode" alt="VS Code">
+  <img src="https://img.shields.io/badge/Eclipse%20IDE-purple?style=flat-square&logo=eclipseide" alt="Eclipse IDE">
+  <img src="https://img.shields.io/badge/VS%20Code-blue?style=flat-square&logo=visualstudiocode" alt="VS Code">
+  <img src="https://img.shields.io/badge/Visual%20Studio-purple?style=flat-square&logo=visualstudio" alt="Visual Studio">
+  <img src="https://img.shields.io/badge/Antigravity-black?style=flat-square" alt="Antigravity">
   <img src="https://img.shields.io/badge/Wokwi-Arduino%20Simulator-purple?style=flat-square" alt="Wokwi">
 </p>
 
 ---
 
-## Current Learning Journey
+## Learning Journey
 
-### Harvard CS50x
+### CS50x — Harvard University
 
-I am currently studying Harvard University's CS50x: Introduction to Computer Science.
+Completed coursework and projects covering:
 
-Topics and projects completed or in progress include:
-
-- Scratch programming and computational thinking
-- C programming fundamentals
-- Variables, conditions, loops, and functions
+- Computational thinking
+- C programming
+- Algorithms
 - Arrays and strings
-- Command-line arguments
-- Algorithms and sorting
+- Functions
+- Memory
 - Data structures
-- Problem-solving through official CS50 problem sets
+- Problem solving
 
-### Additional Learning
+I also developed **Smart Vehicle Monitoring System** as my CS50x Final Project.
 
-- Arduino programming and practical projects
+### Embedded Systems
+
+Currently studying Embedded Systems with a focus on:
+
 - Embedded C
-- Git and GitHub
+- Microcontrollers
+- GPIO / DIO
+- Timers
+- Interrupts
+- Communication protocols
+- Memory and registers
+- ATmega32
+- STM32
+- Embedded software fundamentals
+
+### Other Learning
+
+- Arduino programming
+- C++ fundamentals
 - Python fundamentals
+- Git & GitHub
 - Artificial Intelligence fundamentals
-- Prompt Engineering
 - Cybersecurity fundamentals
-- Computer networking fundamentals
 
 ---
 
 ## Featured Projects
 
-### Smart Arduino System
+### 🚗 Smart Vehicle Monitoring System
 
-An Arduino Mega project integrating multiple electronic components into one interactive system.
+My **CS50x Final Project** — an Arduino-based system designed to monitor several vehicle-related parameters.
 
-Technologies and components:
+Main features include:
 
-- Arduino Mega
-- LCD 16x2
-- Ultrasonic sensor
-- Analog temperature sensor
-- LEDs
-- Buzzer
-- Push button
-- Potentiometer
-- Breadboard
-- C/C++ programming
+- Temperature monitoring
+- Fuel level monitoring
+- Distance measurement
+- LED status indicators
+- Buzzer alerts
+- Push-button control
+- Button debouncing
+- LCD display
 
-The system monitors sensor values, displays information on an LCD, and activates visual and audio alerts based on predefined conditions.
+**Technologies:** Arduino, C/C++, sensors, Wokwi
 
 ---
 
-### Ultrasonic Distance Measurement with LED Indicators
+### 🔌 Arduino Projects
 
-An Arduino simulation that:
+A collection of small projects created while learning Arduino and embedded programming.
 
-- Measures the distance between the ultrasonic sensor and an object
-- Processes distance values
-- Activates different LEDs depending on the measured range
-- Demonstrates conditional logic and sensor integration
+Examples include:
 
-**Skills:** Arduino, C/C++, ultrasonic sensors, digital output, conditional statements
-
----
-
-### Temperature Monitoring with LED Indicators
-
-An Arduino simulation that:
-
-- Reads temperature values from an analog temperature sensor
-- Divides temperature readings into different levels
-- Activates green, yellow, or red LEDs depending on the temperature
-- Demonstrates analog input processing and decision-making
-
-**Skills:** Arduino, analog input, temperature sensors, LEDs, if/else logic
+- Ultrasonic distance measurement
+- Temperature monitoring
+- LED control
+- Push-button systems
+- Sensor-based alerts
+- LCD interfaces
 
 ---
 
-### CS50 Scratch Game
+## Certifications & Learning
 
-A Scratch game developed for Harvard CS50x Week 0.
-
-Features:
-
-- Player-controlled vehicle
-- Collectible objects
-- Score system
-- Enemy movement
-- Win and game-over conditions
-- Sound effects and background music
-- Custom blocks, loops, variables, and conditional logic
-
----
-
-### CS50 C Programming Exercises
-
-Completed exercises and problem sets involving:
-
-- Hello
-- Mario
-- Cash
-- Scrabble
-- Readability
-- Caesar Cipher
-- Sorting algorithms
-- Plurality voting systems
-
-> My CS50 repositories focus on documenting my learning process and problem-solving development.
-
----
-
-## Certifications
-
-- Arduino Programming Fundamentals and Practical Projects — Edraak
-- One Million Prompters — Dubai
-- Artificial Intelligence Fundamentals (Earn a credential!)-IBM SkillsBuild
-- Additional certifications and technical training in progress
-
----
-
-## Practical Experience
-
-### Automotive Diagnostics Intern — Nahda Auto
-
-- Assisted with vehicle maintenance and diagnostics
-- Used OBD diagnostic tools
-- Supported mechanical and electronic troubleshooting
-- Worked with automotive electrical systems
-- Participated in preventive maintenance operations
-
-### Automotive Mechanic Trainee — Independent Garage
-
-- Assisted with routine vehicle maintenance
-- Supported mechanical repair operations
-- Performed basic inspections and servicing
-- Developed practical workshop skills
+- IBM SkillsBuild — Artificial Intelligence Fundamentals
+- Arduino programming and practical projects
+- Harvard CS50x
+- Embedded Systems training — currently in progress
 
 ---
 
 ## Education
 
-**OFPPT — Office of Vocational Training and Work Promotion**
+### OFPPT — Morocco
 
-Specialized Technician Diploma in Automotive Diagnostics and Embedded Electronics  
-Morocco — 2026
+**Technicien Spécialisé en Diagnostic et Electronique Embarquée**
 
-Relevant areas of study:
+2024–2026
+
+Status: **Admis — Official diploma pending**
+
+Main areas of study:
 
 - Automotive diagnostics
 - Automotive electronics
-- Embedded systems
 - Vehicle electrical systems
-- Engine management systems
+- Embedded electronics
 - Sensors and actuators
 - Electronic troubleshooting
 
 ---
 
-## Goals
+## Career Interests
 
-My long-term goal is to build a professional career at the intersection of:
+I am interested in developing my career in:
 
-- Embedded systems
-- Automotive electronics
-- Software development
-- Internet of Things
-- Artificial Intelligence
-- Smart mobility technologies
+- Embedded Software
+- Embedded Systems
+- Automotive Embedded Systems
+- Automotive Electronics
+- Firmware Development
+- Microcontroller Programming
+- C/C++ Development
 
-I am continuously learning, building projects, and improving my technical and problem-solving skills.
+My current priority is to keep learning, build practical projects, and gain real-world experience.
 
 ---
 
 ## Languages
 
 - Arabic — Native
-- English — Intermediate (B1)
-- French — Elementary (A2)
+- English — Intermediate
+- French — Basic / Intermediate
 
 ---
 
@@ -271,16 +225,14 @@ I am continuously learning, building projects, and improving my technical and pr
 
 <p align="center">
   <a href="mailto:mohammedghandour.04@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohammedghandour.04%40gmail.com-red?style=for-the-badge&logo=gmail" alt="Email">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
-</p>
 
-<p align="center">
   <a href="https://www.linkedin.com/in/mohammed-ghandour-auto">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohammed%20Ghandour-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
 </p>
 
 <p align="center">
-  Thank you for visiting my GitHub profile.
+  Thanks for visiting my profile! 🚀
 </p>
