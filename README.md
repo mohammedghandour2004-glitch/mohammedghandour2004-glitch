@@ -208,16 +208,9 @@ My current priority is to keep learning, build practical projects, and gain real
 - French — Basic / Intermediate
 
 ---
+## Projects
 
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedghandour2004-glitch&show_icons=true&hide_border=true" alt="Mohammed's GitHub statistics">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedghandour2004-glitch&layout=compact&hide_border=true" alt="Top languages">
-</p>
+I use GitHub to document my embedded systems, Arduino, C/C++, and programming projects.
 
 ---
 
