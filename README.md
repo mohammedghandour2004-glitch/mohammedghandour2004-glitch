@@ -72,23 +72,23 @@ Passionate about Embedded Systems, Automotive Electronics, Firmware Development,
 
 <p align="left">
 
-<a href="https://linkedin.com/in/ghandour" target="_blank">
+<a href="https://www.linkedin.com/in/ghandour" target="_blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
        alt="LinkedIn"
        height="30"
        width="40" />
 </a>
 
-<a href="https://instagram.com/eazye.exe" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       alt="Instagram"
+<a href="mailto:YOUR_EMAIL@gmail.com">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
+       alt="Gmail"
        height="30"
        width="40" />
 </a>
 
-<a href="https://discord.gg/eazy_ex1" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg"
-       alt="Discord"
+<a href="https://www.instagram.com/eazye.exe" target="_blank">
+  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+       alt="Instagram"
        height="30"
        width="40" />
 </a>
