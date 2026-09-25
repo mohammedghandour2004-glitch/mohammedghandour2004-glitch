@@ -70,62 +70,19 @@ Passionate about Embedded Systems, Automotive Electronics, Firmware Development,
 
 ### 🔗 Connect with Me
 
-<p align="left">
-
-<a href="https://www.linkedin.com/in/ghandour" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-       alt="LinkedIn"
-       height="30"
-       width="40" />
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg"
-       alt="Gmail"
-       height="30"
-       width="40" />
-</a>
-
-<a href="https://www.instagram.com/eazye.exe" target="_blank">
-  <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-       alt="Instagram"
-       height="30"
-       width="40" />
-</a>
-
-</p>
-
----
-
-### 📊 GitHub Stats
-
 <p align="center">
+  <a href="mailto:mohammedghandour.04@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" alt="Email">
+  </a>
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=mohammedghandour2004-glitch&show_icons=true&locale=en"
-  alt="Mohammed Ghandour GitHub Stats"
-/>
+  <a href="https://www.linkedin.com/in/mohammed-ghandour-auto" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
 
+  <a href="https://www.instagram.com/eazye.exe" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedghandour2004-glitch&show_icons=true&locale=en&layout=compact"
-  alt="Most Used Languages"
-/>
-
-</p>
-
-<p align="center">
-
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedghandour2004-glitch"
-  alt="GitHub Streak"
-/>
-
-</p>
-
 ---
 
 <h3 align="center">
