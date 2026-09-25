@@ -83,8 +83,8 @@ Passionate about Embedded Systems, Automotive Electronics, Firmware Development,
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
----
+
 
 <h3 align="center">
-⚡ Building one embedded project at a time.
+💻 Learning, building, and improving in Embedded Systems.
 </h3>
